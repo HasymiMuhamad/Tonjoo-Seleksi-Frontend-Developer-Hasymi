@@ -1,0 +1,45 @@
+.header {
+    background-color: #FFFFFF;
+}
+
+.navbar-show {
+    top: 0rem;
+    position: relative;
+    transition: top 0.5s;
+}
+  
+  .navbar-hide {
+    top: -6rem;
+    position: relative;
+    transition: top 0.5s;
+  }
+
+.mainLayout .ant-layout-header {
+    background: #FFFFFF;
+    padding: 0;
+    height: auto;
+    line-height: 1.6;
+}
+
+.mainLayout .ant-layout-header-hide {
+    background: #FFFFFF;
+    padding: 0;
+    height: auto;
+    line-height: 1.6;
+}
+
+.ant-anchor-link .ant-anchor-link-title {
+    font-weight: bold;
+    color: #011E44;
+    text-transform: uppercase;
+}
+
+
+.ant-btn-primary {
+    color: #fff;
+    background: #36D7B6;
+    border-color: #36D7B6;
+    text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
+    -webkit-box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+    box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+}

@@ -1,0 +1,133 @@
+.main-footer {
+    background-color: #2D3E50 ;
+}
+
+.ant-layout-footer {
+    background: #2D3E50 !important;
+    color: #fff !important;
+    padding: 60px 0 !important;
+    text-align: center;
+}
+
+.general-content {
+    margin: 0 auto;
+    width: 1200px;
+    padding: 0 15px;
+    display: flex;
+    /* flex-direction: row; */
+}
+
+.btn-sign-up {
+    width: 159px;
+    height: 57px;
+    background-color: #36D7B6;
+    color: white;
+    border-radius: 3px;
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    /* text-align: center; */
+    margin: auto;
+}
+
+.btn-sign-up-text {
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.desc-logo {
+    font-size: 37px;
+    text-align: left;
+    /* margin-left: 43px; */
+    width: auto;
+    margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+    /* margin-right: 12px; */
+    margin: auto;
+    padding: 7px;
+    text-align: center;
+    justify-content: center;
+}
+
+.general-content-center {
+    margin-left: 5px;
+    margin-right: 16px;
+}
+
+.general-content-left {
+    margin-right: 20px;
+}
+
+.general-content-right {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.second-left {
+    display: flex;
+    align-items: left;
+}
+
+.img-second-left {
+    width: 116px;
+    height: 100px;
+}
+
+.img-second-text {
+    text-align: justify;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.footer-center {
+    color: #36D7B6 ;
+    font-weight: bold;
+    font-size: 17px;
+    text-transform: uppercase;
+    /* display: flex;
+    padding-left: 30px; */
+}
+
+.footer-center-desc {
+    color: white ;
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+    /* display: flex;
+    padding-left: 30px; */
+
+}
+
+.first-step {
+    padding-left: 30px;
+}
+
+.img-second-right {
+    width: 100%;
+    height: 141px;
+    /* display: flex;
+    padding-left: 30px; */
+}
+
+.all-right {
+    text-transform: uppercase;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+}
+
+.link-studio {
+    text-transform: uppercase;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    margin-left: auto;
+}
+
+.end-footer {
+    display: flex;
+}
+

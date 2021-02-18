@@ -1,0 +1,166 @@
+.square-box {
+    margin-top: 180px;
+    background-color: #FAFAFA;
+    width: 100%;
+    height: 100%;
+}
+
+.card-fluid {
+    border: none;
+    box-shadow: 0 3px 5px 0;
+    margin-bottom: 30px;
+}
+
+.ant-card-body {
+    padding: 11px !important;
+    /* margin-bottom: 40px !important; */
+}
+
+.img-blog-main {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.ant-card-bordered {
+    border: 1px solid #f0f0f0;
+    margin-top: 17px !important;
+    padding-bottom: 20px !important;
+}
+
+.card-title {
+    width: 100%;
+    color: #909090;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.card-title-field {
+    font-size: 25px;
+}
+
+.item-box {
+    margin: auto;
+    width: auto;
+    /* background-color: green; */
+    height: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.inside {
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.comment-field {
+    margin-top: 30px;
+}
+
+.comment-title {
+    color: #36D7B6;
+    width: 100%;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: left;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.comment-title-field {
+    font-weight: 600;
+    margin-bottom: 0px;
+    font-size: 23px;
+}
+
+.divider {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.comment-box {
+    padding-left: 20px;
+}
+
+.comment-box-true {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.comment-box-form {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.list-item {
+    font-weight: 600;
+    margin-left: 20px;
+    /* padding-bottom: 10px; */
+}
+
+.reply-comment {
+    color: #36D7B6;
+    /* text-transform: uppercase; */
+    font-weight: bold;
+}
+
+.person-name {
+    font-size: 20px;
+}
+
+.submit-message {
+    width: 100%;
+    height: 50px;
+    background-color: #36D7B6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.submit-btn-text {
+    text-transform: uppercase;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-weight: bold;
+
+}
+
+.icon-list {
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.space-top {
+    margin-top: 20px;
+}
+
+.space-bottom {
+    margin-bottom: 20px;
+}
+
+.comment-box-good {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
