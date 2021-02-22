@@ -7,13 +7,14 @@
 
 .card-fluid {
     border: none;
-    box-shadow: 0 3px 5px 0;
+    /* box-shadow: 0 3px 5px 0; */
     margin-bottom: 30px;
 }
 
 .ant-card-body {
-    padding: 11px !important;
+    /* padding: 11px !important; */
     /* margin-bottom: 40px !important; */
+    padding: 0px 4px 0px 1px !important;
 }
 
 .img-blog-main {
@@ -24,7 +25,7 @@
 .ant-card-bordered {
     border: 1px solid #f0f0f0;
     margin-top: 17px !important;
-    padding-bottom: 20px !important;
+    /* padding-bottom: 20px !important; */
 }
 
 .card-title {
@@ -163,4 +164,10 @@
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
+}
+
+.desc-true-post {
+    text-transform: uppercase;
+    font-weight: 500;
+    color: grey;
 }

@@ -266,7 +266,7 @@ function AppContent() {
                     <Comment
                         className="comment-box-true"
                         // actions={[<p key="comment-nested-reply-to" className="reply-comment">Reply to</p>]}
-                        author={<a className="person-name">Pavlo Picaso | <strong>March 12, 2021</strong></a>}
+                        author={<a className="person-name"><strong>Jan 5, 2016</strong></a>}
                         avatar={
                         <Avatar
                             src={imgPerson2}
@@ -274,8 +274,8 @@ function AppContent() {
                         />
                         }
                         content={
-                        <p>
-                            Best destination place to visit in 2021.
+                        <p className="desc-true-post">
+                            sejahtera family hotel dan apartemen
                         </p>
                         }
                     >
@@ -284,7 +284,7 @@ function AppContent() {
                     <Comment
                         className="comment-box-true"
                         // actions={[<p key="comment-nested-reply-to" className="reply-comment">Reply to</p>]}
-                        author={<a className="person-name">Stoner | <strong>April 25, 2021</strong></a>}
+                        author={<a className="person-name"><strong>April 25, 2021</strong></a>}
                         avatar={
                         <Avatar
                             src={imgPerson}
@@ -292,8 +292,8 @@ function AppContent() {
                         />
                         }
                         content={
-                        <p>
-                            The most cheapest hotel in Bali.
+                        <p className="desc-true-post">
+                            Aston Semarang Hotel dan Convention Center.
                         </p>
                         }
                     >
@@ -302,7 +302,7 @@ function AppContent() {
                     <Comment
                         className="comment-box-true"
                         // actions={[<p key="comment-nested-reply-to" className="reply-comment">Reply to</p>]}
-                        author={<a className="person-name">Patrics Wagyu | <strong>April 25, 2021</strong></a>}
+                        author={<a className="person-name"><strong>April 25, 2021</strong></a>}
                         avatar={
                         <Avatar
                             src={imgPerson2}
@@ -310,8 +310,8 @@ function AppContent() {
                         />
                         }
                         content={
-                        <p>
-                            Snorkling and diving in Raja Ampat.
+                        <p className="desc-true-post">
+                            Ibis Budget Semarang Tendean
                         </p>
                         }
                     >
@@ -320,7 +320,7 @@ function AppContent() {
                     <Comment
                         className="comment-box-true"
                         // actions={[<p key="comment-nested-reply-to" className="reply-comment">Reply to</p>]}
-                        author={<a className="person-name">Solomon Paveca | <strong>April 25, 2021</strong></a>}
+                        author={<a className="person-name"><strong>April 25, 2021</strong></a>}
                         avatar={
                         <Avatar
                             src={imgPerson}
@@ -328,8 +328,8 @@ function AppContent() {
                         />
                         }
                         content={
-                        <p>
-                            Cooking and hiking in Mount Permai.
+                        <p className="desc-true-post">
+                            Holiday inn express semarang simpang lima
                         </p>
                         }
                     >

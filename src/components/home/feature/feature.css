@@ -71,9 +71,9 @@
 }
 
 .amount-outer {
-    margin-left: -2px;
-    margin-right: 25px;
-    margin-top: -75px;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-top: -75px; */
     background-color: #36D7B6;
     height: 44px;
     display: flex;
@@ -81,6 +81,8 @@
     justify-content: center;
     align-items: center;
     position: absolute;
+    right: 9px;
+    top: 55px;
 }
 
 .amount-inner {
@@ -110,6 +112,7 @@
     background-color: white;
     margin: auto;
     height: 50px;
+    padding: 10px;
 }
 
 .proper-loc {

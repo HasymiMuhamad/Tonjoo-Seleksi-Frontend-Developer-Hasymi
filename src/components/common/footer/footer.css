@@ -47,7 +47,7 @@
     /* margin-right: 12px; */
     margin: auto;
     padding: 7px;
-    text-align: center;
+    text-align: left;
     justify-content: center;
 }
 
@@ -87,6 +87,7 @@
     font-weight: bold;
     font-size: 17px;
     text-transform: uppercase;
+    text-align: left;
     /* display: flex;
     padding-left: 30px; */
 }
@@ -96,6 +97,7 @@
     font-weight: bold;
     font-size: 15px;
     text-transform: uppercase;
+    text-align: left;
     /* display: flex;
     padding-left: 30px; */
 
